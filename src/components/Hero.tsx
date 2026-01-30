@@ -18,7 +18,7 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full object-cover"
       >
         <source
-          src="https://videos.pexels.com/video-files/18123919/18123919-sd_640_360_24fps.mp4"
+          src="https://www.pexels.com/video/aerial-view-of-urban-land-development-site-32038061/"
           type="video/mp4"
         />
       </video>
